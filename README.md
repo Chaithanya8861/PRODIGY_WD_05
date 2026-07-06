@@ -1,8 +1,7 @@
-#Weather App 
-
+Weather App
 A simple weather forecasting app that shows current weather for any city.
 
-#Features
+Features
 Search weather by city name
 
 Get weather for your current location
@@ -13,14 +12,14 @@ Weather icons and descriptions
 
 Works on mobile and desktop
 
-#How to Use
+How to Use
 Type a city name in the search box
 
 Click "Search" or press Enter
 
 Or click "📍 My Location" for automatic weather
 
-#Technologies
+Technologies
 HTML5
 
 CSS3
@@ -29,5 +28,5 @@ JavaScript
 
 OpenWeatherMap API
 
-##Live Demo
- https://chaithanya8861.github.io/PRODIGY_WD_05/
+Live Demo
+🔗 https://chaithanya8861.github.io/PRODIGY_WD_05/
